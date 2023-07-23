@@ -1,0 +1,9 @@
+[submodule "intermediary"]
+	path = intermediary
+	url = https://github.com/DuvetMC/intermediary.git
+[submodule "matches"]
+	path = matches
+	url = https://github.com/skyrising/matches
+[submodule "fabric-intermediaries"]
+	path = fabric-intermediaries
+	url = https://github.com/fabricmc/intermediary
