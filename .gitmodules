@@ -3,7 +3,7 @@
 	url = https://github.com/DuvetMC/intermediary.git
 [submodule "matches"]
 	path = matches
-	url = https://github.com/skyrising/matches
+	url = https://github.com/OrnitheMC/matches.git
 [submodule "fabric-intermediaries"]
 	path = fabric-intermediaries
-	url = https://github.com/fabricmc/intermediary
+	url = https://github.com/FabricMC/intermediary.git
